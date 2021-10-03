@@ -1,4 +1,4 @@
-7d6f850367014c405fbeebf4e1543896 *DESCRIPTION
+3fc2cce61d6f7d3a075378993374abbe *DESCRIPTION
 588aee6e3e69f1e91bcf6864bbd8bcb4 *NAMESPACE
 225a849c10cbf8131d3d3481e57b7da5 *R/AllClasses.R
 92ecf950a2d57a44e8e63ba6594d200d *R/AllGenerics.R
@@ -11,7 +11,7 @@ ef4577ae950a7174b0bf44ff120e1283 *R/CoupledMWCA_Check_specific.R
 5cfc7f0dbda3c5f0ba957541541e580a *R/MWCA.R
 599292203bc4437914ba345978be628c *R/MWCA_Check.R
 bdaa1f6580cfb40bc18629773330739d *R/MWCA_Initialization.R
-66ae09c34518f8ed4754da0fe0f838e2 *R/mwTensor-internal.R
+6f610eabd2dd3fbbdb62b1dd17bb98c8 *R/mwTensor-internal.R
 bf094049bd8bd96f7f4074a82dd94474 *R/myALS_SVD.R
 9b1f1b75c2020dc39fc3438ec27b5648 *R/myCX.R
 dd9fa60eafb4fc2bef3292378932cc4a *R/myICA.R
@@ -20,8 +20,8 @@ dd9fa60eafb4fc2bef3292378932cc4a *R/myICA.R
 ed68d3788e2ad2171be2e8586f2c2a43 *R/plotTensor3Ds.R
 e575195ad144e5aeaad2a53c6397a694 *R/toyModel.R
 4eac3e052a50f0ed4ac01ab3968015e9 *README.md
-acdd2fbcf663b84f04f6cc3780c56f6f *build/partial.rdb
-75b0f07ee2901d60afb985eef67f1130 *inst/NEWS
+cc9361885ef2eee06780732b550169f3 *build/partial.rdb
+3c05351e131a256ebdb3349f39a1825f *inst/NEWS
 7035dbabe4ff144c63a752393fa4cc74 *man/CoupledMWCA.Rd
 978199ae5eccb33eed369b7078298fe1 *man/CoupledMWCAParams-class.Rd
 0b4471e9c6f0641e4b467566bdaa9b7a *man/CoupledMWCAResult-class.Rd
